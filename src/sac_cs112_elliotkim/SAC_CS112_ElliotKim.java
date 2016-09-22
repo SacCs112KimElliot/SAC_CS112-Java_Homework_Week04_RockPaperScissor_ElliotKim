@@ -246,6 +246,7 @@ public class SAC_CS112_ElliotKim
         
     
         
-    
+
+//// Hmm you ask user to enter R/P/S and you checked for r/p/s    
     
 
